@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hello! I'm Vichey<br><br>I'm currently a junior at the American University of Phnom Penh (AUPP), majoring in **Information and Communication Technology (ICT)**.  <br><br>💻 I'm passionate about **web development**, and I enjoy building both the front-end and back-end of applications.  <br><br>🛠️ Technologies I'm familiar with:<br>- HTML<br>- CSS<br>- JavaScript<br>- Python<br><br>🌱 My current focus is on becoming a **Full Stack Developer** — learning how to create complete web solutions from start to finish.<br><br>Thanks for visiting my profile! 😊<br>
+# 👋 Hello! I'm Vichey
+I'm currently a junior at the American University of Phnom Penh (AUPP), majoring in **Information and Communication Technology (ICT)**.  <br><br>💻 I'm passionate about **web development**, and I enjoy building both the front-end and back-end of applications.  <br><br>🛠️ Technologies I'm familiar with:<br>- HTML<br>- CSS<br>- JavaScript<br>- Python<br><br>🌱 My current focus is on becoming a **Full Stack Developer** — learning how to create complete web solutions from start to finish.<br><br>Thanks for visiting my profile! 😊<br>
 
 
 ## 🌐 Socials:
