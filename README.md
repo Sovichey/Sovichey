@@ -1,4 +1,13 @@
+<!-- TOP ANIMATED FRAME RAIL (Cyberpunk / Tech Style) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=header" width="100%" alt="Top Frame" />
+</p>
+
 # <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=0891B2&background=1C191700&width=600&center=true&vCenter=true&lines=Hi+there%2C+I'm+Rim+Sovichey%F0%9F%91%8B;Senior+ICT+Student;Web+%26+Frontend+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" /></a></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21mYm9pZ3p0cmNmbm9wYm9pYTh0Z3V6YWN6Z3BwYm9pYTh0Z3V6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eC86L7uImfT0zzO9bM/giphy.gif" width="160" alt="Waving Astronaut" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sovichey-rim/" target="_blank">
@@ -13,8 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.github.com/Sovichey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Sovichey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <a href="https://www.github.com/Sovichey" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Sovichey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
 ---
@@ -127,8 +135,17 @@ As I approach graduation, my drive to evolve with the fast-paced tech industry r
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9pM3Nid3Y3bXN5Y3g3YTh0Znd0bms1dWZ5Nms1Znd0bms1dWZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1S1vYMKU66lWpdt81/giphy.gif" width="150" alt="Animated Coder" />
+</p>
+
 ### ✍️ Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
+</p>
+
+<!-- BOTTOM ANIMATED FRAME RAIL -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891B2&height=120&section=footer" width="100%" alt="Bottom Frame" />
 </p>
