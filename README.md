@@ -116,6 +116,14 @@ As I approach graduation, my drive to evolve with the fast-paced tech industry r
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sovichey/Sovichey/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+</p>
+
+---
+
 ### 📊 GitHub Statistics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
